@@ -2,7 +2,7 @@
 
 Getting started with php and the old classic FizzBuzz
 
-For loop runs from 0 - 1000
+For loop runs from 0 - 100
 
 numbers divisable by 3 = Fizz
 
