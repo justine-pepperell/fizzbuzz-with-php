@@ -10,4 +10,4 @@ numbers divisable by 5 = Buzz
 
 numbers divisable by 3 & 5 or 15 = FizzBuzz
 
-FizzBuzzed numbers can be viewed locally in the terminal. 
+FizzBuzzed numbers are printed locally. 
